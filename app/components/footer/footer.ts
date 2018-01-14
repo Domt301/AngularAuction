@@ -1,7 +1,7 @@
-import {Component} from '@angular/core'; 
+import {Component} from '@angular/core';
 
 @Component({
-    selector: 'auction-footer',
-    templateUrl: 'app/components/footer/footer.html'
+  selector: 'auction-footer',
+  templateUrl: 'app/components/footer/footer.html'
 })
 export default class FooterComponent {}
