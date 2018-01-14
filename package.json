@@ -1,0 +1,20 @@
+{
+  "name": "AngularTypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domt301/AngularAuction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domt301/AngularAuction/issues"
+  },
+  "homepage": "https://github.com/Domt301/AngularAuction#readme"
+}
