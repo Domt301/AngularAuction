@@ -1,6 +1,7 @@
 {
-  "name": "angular-seed",
-  "description": "An initial npm-managed project for Chapter 2",
+  "name": "auction_ch6",
+  "description": "Sample Online Auction from Chapter 6 from the book Angular 2 Development with TypeScript",
+  "homepage": "https://www.manning.com/books/angular-2-development-with-typescript",
   "private": true,
   "scripts": {
     "start": "live-server"
@@ -17,10 +18,14 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.1.0",
     "zone.js": "^0.7.6",
-    "systemjs": "0.19.37"
+    "systemjs": "0.19.37",
+
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
   },
   "devDependencies": {
-    "live-server": "0.8.2",
+    "@types/es6-shim": "0.0.30",
+    "live-server": "0.8.x",
     "typescript": "^2.0.0"
   }
 }

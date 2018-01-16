@@ -1,2 +1,6 @@
+.DS_Store
+dist
+jspm_packages
+typings
 node_modules
-
+/.vs
